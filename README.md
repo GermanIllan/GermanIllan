@@ -54,22 +54,10 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GermanIllan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1&custom_title=Estadisticas" height="150" alt="stats graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=GermanIllan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GermanIllan/GermanIllan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GermanIllan/GermanIllan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GermanIllan/GermanIllan/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
